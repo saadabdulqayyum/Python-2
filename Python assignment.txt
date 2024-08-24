@@ -1,0 +1,70 @@
+Who developed Python Programming Language?
+Python was developed by Guido van Rossum.
+
+Which type of programming does Python support?
+Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Is Python case sensitive when dealing with identifiers?
+Yes, Python is case sensitive when dealing with identifiers. For example, Var and var would be considered two different identifiers.
+
+What is the correct extension of the Python file?
+The correct extension for a Python file is .py.
+
+Is Python code compiled or interpreted?
+Python is an interpreted language, meaning the code is executed line by line by the Python interpreter.
+
+Name a few blocks of code used to define in the Python language.
+In Python, you define blocks of code using:
+
+Functions: Defined using the def keyword.
+Classes: Defined using the class keyword.
+Loops: Such as for and while loops.
+Conditional Statements: Such as if, elif, and else.
+State the character used to give single-line comments in Python.
+The character used for single-line comments in Python is #.
+
+Mention functions that can help us find the version of Python that we are currently working on.
+You can find the Python version using:
+
+**sys.version** (after importing the sys module)
+**python --version** or **python -V** in the command line.
+**platform.python_version()** (after importing the platform module).
+Python supports the creation of anonymous functions at runtime, using a construct called
+Python supports anonymous functions using the lambda construct.
+
+What does pip stand for in Python?
+Pip stands for "Pip Installs Packages". It is a package management system used to install and manage software packages written in Python.
+
+Mention a few built-in functions in Python.
+Some built-in functions in Python include:
+
+print()
+len()
+type()
+input()
+range()
+sum()
+min()
+max()
+What is the maximum possible length of an identifier in Python?
+There is no explicit limit on the length of an identifier in Python, but it is generally advisable to keep it reasonable for readability.
+
+What are the benefits of using Python?
+Benefits of using Python include:
+
+Ease of Learning and Use: Simple syntax and readability.
+Versatility: Supports multiple programming paradigms.
+Extensive Libraries: Rich set of libraries and frameworks.
+Community Support: Large, active community and plenty of resources.
+Cross-platform Compatibility: Runs on various operating systems.
+Integration Capabilities: Easily integrates with other languages and tools.
+How is memory managed in Python?
+Memory in Python is managed by the Python Memory Manager. Python uses automatic garbage collection to manage memory, cleaning up unused objects.
+
+How to install Python on Windows and set path variables?
+
+Download Python: Go to the official Python website and download the latest version.
+Run the Installer: During installation, make sure to check the option "Add Python to PATH."
+Verify Installation: Open a command prompt and type python --version to check if Python is installed and added to the PATH.
+Is indentation required in Python?
+Yes, indentation is required in Python. It is used to define the scope of loops, functions, classes, and other constructs. Proper indentation is crucial as it replaces the use of curly braces {} seen in other programming languages.
